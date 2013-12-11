@@ -60,3 +60,4 @@ class changweibo
     imagepng($bg);
     imagedestroy($bg);
   }
+}
